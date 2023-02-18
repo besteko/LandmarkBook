@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A04EB0F299C19EF006B8BEF /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A04EB0E299C19EF006B8BEF /* DetailsVC.swift */; };
 		9A23E062299A317300B77D07 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A23E061299A317300B77D07 /* AppDelegate.swift */; };
 		9A23E064299A317300B77D07 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A23E063299A317300B77D07 /* SceneDelegate.swift */; };
 		9A23E066299A317300B77D07 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A23E065299A317300B77D07 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9A04EB0E299C19EF006B8BEF /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 		9A23E05E299A317300B77D07 /* LandmarkBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LandmarkBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A23E061299A317300B77D07 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9A23E063299A317300B77D07 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				9A23E061299A317300B77D07 /* AppDelegate.swift */,
 				9A23E063299A317300B77D07 /* SceneDelegate.swift */,
 				9A23E065299A317300B77D07 /* ViewController.swift */,
+				9A04EB0E299C19EF006B8BEF /* DetailsVC.swift */,
 				9A23E067299A317300B77D07 /* Main.storyboard */,
 				9A23E06A299A317300B77D07 /* Assets.xcassets */,
 				9A23E06C299A317300B77D07 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A23E066299A317300B77D07 /* ViewController.swift in Sources */,
+				9A04EB0F299C19EF006B8BEF /* DetailsVC.swift in Sources */,
 				9A23E062299A317300B77D07 /* AppDelegate.swift in Sources */,
 				9A23E064299A317300B77D07 /* SceneDelegate.swift in Sources */,
 			);
